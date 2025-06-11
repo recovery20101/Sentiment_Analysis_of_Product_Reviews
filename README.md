@@ -5,6 +5,8 @@ This project focuses on the Sentiment Analysis of movie reviews from the IMDB da
 
 Graphs and Classification Reports can be found in the ipynb file.
 
+I deployed an interactive demo of the tonality analysis model. You can test it by following this link: https://sentiment-analysis-of-reviews.streamlit.app/"
+
 ## Technologies Used
 ### Programming Language: Python
 
